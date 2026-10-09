@@ -1,0 +1,10 @@
+{"id": "mmlupro:9983", "dataset": "mmlupro", "answer": "E", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:5256", "dataset": "mmlupro", "answer": "B", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:5488", "dataset": "mmlupro", "answer": "F", "correct": false, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:9900", "dataset": "mmlupro", "answer": "C", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:11537", "dataset": "mmlupro", "answer": "", "correct": null, "finish": "length", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:5099", "dataset": "mmlupro", "answer": "B", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:11559", "dataset": "mmlupro", "answer": "", "correct": null, "finish": "length", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:3424", "dataset": "mmlupro", "answer": "E", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:9981", "dataset": "mmlupro", "answer": "A", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "mmlupro:11975", "dataset": "mmlupro", "answer": "", "correct": null, "finish": "length", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}

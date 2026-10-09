@@ -1,0 +1,12 @@
+{
+  "creators": [{"name": "Latipov, Aziz", "orcid": "0009-0003-8938-8223"}],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "title": "tech-note-5: companion data and code for \"Where the Swarm Pays\"",
+  "description": "Answer-trace corpus (56,219 rows: parsed answer, correctness, provider, token counts; no model texts, no question texts, GPQA Diamond answers replaced by per-item random tokens), label audit, statistics library and table builder for the technical note \"Where the Swarm Pays\" (https://alatip.github.io/where-the-swarm-pays/, DOI 10.5281/zenodo.23241005).",
+  "keywords": ["language model ensembles", "multi-agent debate", "LLM-as-judge", "test-time scaling", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "https://alatip.github.io/where-the-swarm-pays/", "relation": "isSupplementTo", "scheme": "url", "resource_type": "publication-preprint"},
+    {"identifier": "10.5281/zenodo.23241005", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-preprint"}
+  ]
+}

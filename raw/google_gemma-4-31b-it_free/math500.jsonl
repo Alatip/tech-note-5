@@ -1,0 +1,2 @@
+{"id": "math:test/algebra/2036.json", "dataset": "math500", "answer": "3\\sqrt{13}", "correct": true, "finish": "stop", "served": "google/gemma-4-31b-it:free", "provider": "Google AI Studio"}
+{"id": "math:test/prealgebra/1139.json", "dataset": "math500", "answer": "4", "correct": true, "finish": "stop", "served": "google/gemma-4-31b-it:free", "provider": "Google AI Studio"}

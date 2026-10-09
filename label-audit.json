@@ -1,0 +1,174 @@
+{
+ "relabels": {
+  "mmlupro:527": {
+   "old": "A",
+   "new": "B",
+   "reason": "2/5 = 40%, 1/100 = 1%"
+  },
+  "mmlupro:10666": {
+   "old": "D",
+   "new": "F",
+   "reason": "small training set -> overfitting (True); small hypothesis space -> underfitting (False)"
+  },
+  "mmlupro:6224": {
+   "old": "B",
+   "new": "D",
+   "reason": "prone = lying face down"
+  },
+  "mmlupro:8672": {
+   "old": "E",
+   "new": "I",
+   "reason": "power rises with alpha and n; option I maximises both"
+  },
+  "mmlupro:11051": {
+   "old": "B",
+   "new": "A",
+   "reason": "Coddling of the American Mind: colleges encourage emotional reasoning"
+  },
+  "mmlupro:2199": {
+   "old": "D",
+   "new": "H",
+   "reason": "crowding research: men react with more stress/aggression than women"
+  },
+  "mmlupro:5787": {
+   "old": "G",
+   "new": "D",
+   "reason": "Burgess zone IV = residential zone (better houses, single-family, higher-rent apartments)"
+  },
+  "mmlupro:936": {
+   "old": "D",
+   "new": "A",
+   "reason": "Cooper v. Oklahoma (1996): clear-and-convincing burden on defendant unconstitutional"
+  },
+  "mmlupro:9814": {
+   "old": "D",
+   "new": "I",
+   "reason": "v=0 at top (I true); a=g at top (II false); fall slower than rise with drag (III false)"
+  },
+  "gsmhard:97019604": {
+   "old": "4646529.0",
+   "new": "9873855",
+   "reason": "(2/3)*6969780 + (3/4)*6969780 = 9873855; gold kept boys term at original 9"
+  },
+  "gsmhard:61258154": {
+   "old": "26.0",
+   "new": "25",
+   "reason": "needs 828650 empty pens per new pen, has 25 -> 25 pens total"
+  },
+  "gsmhard:61484486": {
+   "old": "8637843.0",
+   "new": "17274746",
+   "reason": "8637403 + (8637403-60); gold kept 500-60"
+  },
+  "gsmhard:83731584": {
+   "old": "-28107372.0",
+   "new": "112430688",
+   "reason": "468461200/20 = 23423060 bills; -4684612; /2; *20; *3; /5 = 112430688; gold kept $1000 withdrawal"
+  },
+  "gsmhard:48266007": {
+   "old": "14.0",
+   "new": "18",
+   "reason": "14 + (14-4-6) = 18; gold omits game 2"
+  },
+  "gsmhard:75619407": {
+   "old": "1111117.0",
+   "new": "972228",
+   "reason": "(7777802+22)/8 = 972228; gold divides by 7"
+  },
+  "gsmhard:19117345": {
+   "old": "15.0",
+   "new": "50627678",
+   "reason": "6 packs * 8437946.50 = 50627679 vs $1 package -> saves 50627678; gold uses original prices"
+  },
+  "gsmhard:4218257": {
+   "old": "388147.4117647059",
+   "new": "396072",
+   "reason": "(3299286-12-15-4*1.3299286)/8.3299286 = 396072.3 -> 396072 boxes; gold uses original $1.50/$8.50"
+  },
+  "gsmhard:46986761": {
+   "old": "16278237.0",
+   "new": "32556468",
+   "reason": "x+2x+3x = 6*5426078; gold kept '1 more' increments"
+  },
+  "gsmhard:67845971": {
+   "old": "10296189.0",
+   "new": "13728241",
+   "reason": "10+5+3*3432054+10+3432054; gold kept fish food at $2"
+  },
+  "gsmhard:90104808": {
+   "old": "68877330.0",
+   "new": "24",
+   "reason": "6 lb * $4 = $24; promotion threshold 2869889 lb never reached"
+  },
+  "gpqa:17": {
+   "old": "g8228bb80",
+   "new": "g04075069",
+   "reason": "gold letter wrong; the standard reading of the bracket notation gives a different option (details withheld: GPQA Diamond terms)"
+  }
+ },
+ "excluded": {
+  "mmlupro:558": "two options both true (F more complete)",
+  "mmlupro:10633": "stem garbled (training vs testing error)",
+  "mmlupro:7020": "two options identical in content",
+  "mmlupro:7471": "two options are the same equation rearranged",
+  "mmlupro:7443": "two defensible options",
+  "mmlupro:4981": "two defensible options",
+  "mmlupro:887": "nature vs function of punishment ambiguous",
+  "mmlupro:5024": "ideas vs medium; two defensible readings",
+  "mmlupro:3811": "options D and E both correct",
+  "mmlupro:11057": "two defensible options",
+  "mmlupro:129": "synonymous options (variability/heterogeneity) plus a defensible third",
+  "mmlupro:1370": "two options say the same thing",
+  "mmlupro:2592": "correct dichotomy missing from options",
+  "mmlupro:5367": "several options fit",
+  "mmlupro:5442": "source-dependent survey statistic, unverifiable",
+  "gsmhard:25541475": "ill-posed after substitution; gold not correct by construction either",
+  "gsmhard:38336690": "ill-posed after substitution (negative count); gold correct by construction only",
+  "gsmhard:17247299": "whole vs fractional boxes both defensible; gold neither",
+  "gsmhard:49950889": "direction ambiguous; gold fails under every reading",
+  "gsmhard:20970607": "negative weight; literal vs real-world reading",
+  "gsmhard:56793937": "ill-posed: two movie lengths for N movies",
+  "gpqa:167": "contested item; two options defensible (details withheld: GPQA Diamond terms)"
+ },
+ "kept_models_wrong": {
+  "aime25:13": "models wrong (Opus right): 38+19sqrt3 -> 60",
+  "mmlupro:4945": "gold defensible",
+  "gpqa:32": "gold kept after a by-hand check (details withheld: GPQA Diamond terms)"
+ },
+ "grader_errors_fixed_by_normaliser": {
+  "hmmt25:2": "1/576 vs \\frac{1}{576}",
+  "hmmt25:22": "8sqrt10 in several formats"
+ },
+ "audit": "All 48 items on which every model (or every debate agent) was scored wrong on MMLU-Pro, GSM-Hard, olympiad and GPQA Diamond were re-solved by Claude Opus 5.5 and spot-checked by hand (8 October 2026).",
+ "unaudited_all_answering_wrong": {
+  "note": "Items, after the audit, on which every model that answered was wrong but at least one model truncated (so the all-seven criterion did not select them), plus mmlupro:11092 (all seven answered and wrong; present only in an older MMLU-Pro run file). Not audited; listed so that the ceiling in the note can be read with them.",
+  "items": [
+   "mmlupro:3792",
+   "mmlupro:12232",
+   "mmlupro:11883",
+   "mmlupro:6664",
+   "mmlupro:6214",
+   "mmlupro:6598",
+   "mmlupro:1733",
+   "mmlupro:1365",
+   "mmlupro:1754",
+   "mmlupro:9071",
+   "mmlupro:2178",
+   "mmlupro:11092",
+   "gpqa:76",
+   "gsmhard:67561983",
+   "gsmhard:47213175",
+   "gsmhard:40949084",
+   "gsmhard:39440512",
+   "hmmt25:12",
+   "hmmt25:29"
+  ],
+  "debate_unanimous_wrong_round3_not_audited": [
+   "mmlupro:3393",
+   "mmlupro:2935",
+   "gsmhard:11771746",
+   "gsmhard:36264882"
+  ],
+  "debate_note": "The four items on which the six-agent debate is unanimously wrong at round 3 meet the stated audit rule (every debate agent wrong) but were not audited. Two GSM-Hard golds look program-generated under partial substitution (36264882: gold 1379135 = 3 + 2·689566 while the stem implies 3 + 689566²; 11771746: gold 5031.979, a fractional count), and the two MMLU-Pro items have two defensible options. Left unrelabelled pending a second audit; the note says so."
+ }
+}

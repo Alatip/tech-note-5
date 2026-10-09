@@ -1,0 +1,15 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Aziz Latipov
+
+Everything in this repository — the answer-trace corpus under raw/, the
+matrices, the label audit, the Python scripts and the documentation — is
+licensed under the Creative Commons Attribution 4.0 International License.
+You may share and adapt it for any purpose, including commercially, as long
+as you give appropriate credit (see "Citation" in README.md), link to the
+license, and indicate whether changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The source benchmarks keep their own licences; this repository stores no
+question texts and, for GPQA Diamond, no answer identities either.

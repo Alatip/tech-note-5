@@ -1,0 +1,10 @@
+{"id": "math:test/precalculus/807.json", "dataset": "math500", "answer": "(3, \\pi/2)", "correct": false, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/algebra/2584.json", "dataset": "math500", "answer": "14/3", "correct": false, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/number_theory/572.json", "dataset": "math500", "answer": "9", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/intermediate_algebra/1994.json", "dataset": "math500", "answer": "p - q", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/algebra/1349.json", "dataset": "math500", "answer": "Evelyn", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/number_theory/515.json", "dataset": "math500", "answer": "27", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/prealgebra/1622.json", "dataset": "math500", "answer": "42", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/algebra/2036.json", "dataset": "math500", "answer": "3\\sqrt{13}", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/precalculus/927.json", "dataset": "math500", "answer": "90", "correct": true, "finish": "stop", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
+{"id": "math:test/prealgebra/1139.json", "dataset": "math500", "answer": "", "correct": null, "finish": "length", "served": "qwen/qwen3.8-27b:free", "provider": "ModelRun"}
