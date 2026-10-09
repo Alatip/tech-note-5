@@ -1,6 +1,6 @@
 # tech-note-5 — Where the Swarm Pays
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23241005.svg)](https://doi.org/10.5281/zenodo.23241005) — the note. Code and data: archived release v1.0 on Zenodo (DOI added after the release).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23241005.svg)](https://doi.org/10.5281/zenodo.23241005) — the note. Code and data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23252753.svg)](https://doi.org/10.5281/zenodo.23252753) — archived release v1.0 (all versions 10.5281/zenodo.23252752).
 
 Companion data and code for the technical note **"Where the Swarm Pays"**
 (alatip.github.io/where-the-swarm-pays/): one corpus of answer traces over seven
@@ -88,4 +88,4 @@ Everything here is released under [CC BY 4.0](LICENSE): use it freely, with attr
 Please cite the note and this repository:
 
 > Latipov, A. (2026). *Where the Swarm Pays*. Zenodo. https://doi.org/10.5281/zenodo.23241005
-> Latipov, A. (2026). *tech-note-5: companion data and code for "Where the Swarm Pays"* (v1.0). Zenodo / GitHub, https://github.com/Alatip/tech-note-5
+> Latipov, A. (2026). *tech-note-5: companion data and code for "Where the Swarm Pays"* (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23252753 (GitHub: https://github.com/Alatip/tech-note-5)
